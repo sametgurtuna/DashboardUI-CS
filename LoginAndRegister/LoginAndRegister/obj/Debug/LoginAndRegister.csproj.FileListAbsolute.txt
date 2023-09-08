@@ -1,0 +1,11 @@
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\bin\Debug\LoginAndRegister.exe.config
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\bin\Debug\LoginAndRegister.exe
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\bin\Debug\LoginAndRegister.pdb
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.AssemblyReference.cache
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.frmRegister.resources
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.frmLogin.resources
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.Properties.Resources.resources
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.GenerateResource.cache
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.csproj.CoreCompileInputs.cache
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.exe
+C:\Users\Samed.Gurtuna\Documents\sa\LoginAndRegister\LoginAndRegister\obj\Debug\LoginAndRegister.pdb
